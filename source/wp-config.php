@@ -56,7 +56,9 @@ define('LOGGED_IN_SALT',   'l^lG<rK;Wb{VO*ByM4r5:4U[~s!EBQl^T,f6Qwkh7vpSs9MGY!lC
 define('NONCE_SALT',       'CnxUnn &:K7CH_;sy9BBi:A287s#@rHIfc7cPfhDcrcNTI;obT0W7cTEvsqrsiXq');
 
 /**#@-*/
-
+// custom link url in site
+define('WP_HOME','http://localhost/wdev');
+define('WP_SITEURL','http://localhost/wdev/');
 /**
  * WordPress Database Table prefix.
  *
